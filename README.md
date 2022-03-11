@@ -10,3 +10,6 @@
 * Позиционирование
 * Анимации и трансформации
 * Оформление текстов
+
+Cсылка на gh-pages:
+https://vadimag.github.io/russian-travel/index.html
