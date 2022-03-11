@@ -9,28 +9,13 @@
   padding: 0;
 }
 
-/* .cover__subtitle {
-  max-width: 360px;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 22px;
-  text-align: center;
-  color: #ffffff;
-  margin: 0 auto;
-  margin-top: 32px;
-  position: relative;
-  z-index: 1;
-  padding: 0;
-} */
-
-
 @media screen and (max-width:767px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
-    max-width: 230px;
+    width: 100%;
+    max-width: 280px;
+    padding: 0 16px;
     margin-top: 16px;
-
-  }
+    letter-spacing: 0.5px;
 }

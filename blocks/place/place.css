@@ -3,7 +3,6 @@
   grid-template-columns: 460px 1fr;
   gap: 48px 40px;
   box-sizing: border-box;
-
   grid-template-areas:
     "title url"
     "image text";
